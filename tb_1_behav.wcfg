@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="tb_1_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="tb_1" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="2119815669fs"></ZoomEndTime>
+      <Cursor1Time time="792626000fs"></Cursor1Time>
+   </zoom_setting>
+   <WVObjectSize size="47" />
+   <wvobject db_ref_id="1" fp_name="/tb_1/clk1" type="logic">
+      <obj_property name="ElementShortName">clk1</obj_property>
+      <obj_property name="ObjectShortName">clk1</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/tb_1/clk2" type="logic">
+      <obj_property name="ElementShortName">clk2</obj_property>
+      <obj_property name="ObjectShortName">clk2</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/tb_1/k" type="array">
+      <obj_property name="ElementShortName">k[31:0]</obj_property>
+      <obj_property name="ObjectShortName">k[31:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/tb_1/a/clk1" type="logic">
+      <obj_property name="ElementShortName">clk1</obj_property>
+      <obj_property name="ObjectShortName">clk1</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/tb_1/a/clk2" type="logic">
+      <obj_property name="ElementShortName">clk2</obj_property>
+      <obj_property name="ObjectShortName">clk2</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/tb_1/a/PC" type="array">
+      <obj_property name="ElementShortName">PC[31:0]</obj_property>
+      <obj_property name="ObjectShortName">PC[31:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/tb_1/a/IF_ID_IR" type="array">
+      <obj_property name="ElementShortName">IF_ID_IR[31:0]</obj_property>
+      <obj_property name="ObjectShortName">IF_ID_IR[31:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/tb_1/a/IF_ID_NPC" type="array">
+      <obj_property name="ElementShortName">IF_ID_NPC[31:0]</obj_property>
+      <obj_property name="ObjectShortName">IF_ID_NPC[31:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/tb_1/a/ID_EX_IR" type="array">
+      <obj_property name="ElementShortName">ID_EX_IR[31:0]</obj_property>
+      <obj_property name="ObjectShortName">ID_EX_IR[31:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/tb_1/a/ID_EX_NPC" type="array">
+      <obj_property name="ElementShortName">ID_EX_NPC[31:0]</obj_property>
+      <obj_property name="ObjectShortName">ID_EX_NPC[31:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/tb_1/a/ID_EX_A" type="array">
+      <obj_property name="ElementShortName">ID_EX_A[31:0]</obj_property>
+      <obj_property name="ObjectShortName">ID_EX_A[31:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/tb_1/a/ID_EX_B" type="array">
+      <obj_property name="ElementShortName">ID_EX_B[31:0]</obj_property>
+      <obj_property name="ObjectShortName">ID_EX_B[31:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/tb_1/a/ID_EX_Imm" type="array">
+      <obj_property name="ElementShortName">ID_EX_Imm[31:0]</obj_property>
+      <obj_property name="ObjectShortName">ID_EX_Imm[31:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/tb_1/a/ID_EX_TYPE" type="array">
+      <obj_property name="ElementShortName">ID_EX_TYPE[2:0]</obj_property>
+      <obj_property name="ObjectShortName">ID_EX_TYPE[2:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/tb_1/a/EX_MEM_TYPE" type="array">
+      <obj_property name="ElementShortName">EX_MEM_TYPE[2:0]</obj_property>
+      <obj_property name="ObjectShortName">EX_MEM_TYPE[2:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/tb_1/a/MEM_WB_TYPE" type="array">
+      <obj_property name="ElementShortName">MEM_WB_TYPE[2:0]</obj_property>
+      <obj_property name="ObjectShortName">MEM_WB_TYPE[2:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/tb_1/a/EX_MEM_IR" type="array">
+      <obj_property name="ElementShortName">EX_MEM_IR[31:0]</obj_property>
+      <obj_property name="ObjectShortName">EX_MEM_IR[31:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/tb_1/a/EX_MEM_Aluout" type="array">
+      <obj_property name="ElementShortName">EX_MEM_Aluout[31:0]</obj_property>
+      <obj_property name="ObjectShortName">EX_MEM_Aluout[31:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/tb_1/a/EX_MEM_B" type="array">
+      <obj_property name="ElementShortName">EX_MEM_B[31:0]</obj_property>
+      <obj_property name="ObjectShortName">EX_MEM_B[31:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/tb_1/a/MEM_WB_IR" type="array">
+      <obj_property name="ElementShortName">MEM_WB_IR[31:0]</obj_property>
+      <obj_property name="ObjectShortName">MEM_WB_IR[31:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/tb_1/a/MEM_WB_Aluout" type="array">
+      <obj_property name="ElementShortName">MEM_WB_Aluout[31:0]</obj_property>
+      <obj_property name="ObjectShortName">MEM_WB_Aluout[31:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/tb_1/a/MEM_WB_LMD" type="array">
+      <obj_property name="ElementShortName">MEM_WB_LMD[31:0]</obj_property>
+      <obj_property name="ObjectShortName">MEM_WB_LMD[31:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/tb_1/a/EX_MEM_Cond" type="logic">
+      <obj_property name="ElementShortName">EX_MEM_Cond</obj_property>
+      <obj_property name="ObjectShortName">EX_MEM_Cond</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/tb_1/a/Reg" type="array">
+      <obj_property name="ElementShortName">Reg[0:31][31:0]</obj_property>
+      <obj_property name="ObjectShortName">Reg[0:31][31:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/tb_1/a/Mem" type="array">
+      <obj_property name="ElementShortName">Mem[0:1023][31:0]</obj_property>
+      <obj_property name="ObjectShortName">Mem[0:1023][31:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/tb_1/a/HALTED" type="logic">
+      <obj_property name="ElementShortName">HALTED</obj_property>
+      <obj_property name="ObjectShortName">HALTED</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/tb_1/a/TAKEN_BRANCH" type="logic">
+      <obj_property name="ElementShortName">TAKEN_BRANCH</obj_property>
+      <obj_property name="ObjectShortName">TAKEN_BRANCH</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/tb_1/a/ADD" type="array">
+      <obj_property name="ElementShortName">ADD[5:0]</obj_property>
+      <obj_property name="ObjectShortName">ADD[5:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/tb_1/a/SUB" type="array">
+      <obj_property name="ElementShortName">SUB[5:0]</obj_property>
+      <obj_property name="ObjectShortName">SUB[5:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/tb_1/a/AND" type="array">
+      <obj_property name="ElementShortName">AND[5:0]</obj_property>
+      <obj_property name="ObjectShortName">AND[5:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/tb_1/a/OR" type="array">
+      <obj_property name="ElementShortName">OR[5:0]</obj_property>
+      <obj_property name="ObjectShortName">OR[5:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/tb_1/a/SLT" type="array">
+      <obj_property name="ElementShortName">SLT[5:0]</obj_property>
+      <obj_property name="ObjectShortName">SLT[5:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/tb_1/a/MUL" type="array">
+      <obj_property name="ElementShortName">MUL[5:0]</obj_property>
+      <obj_property name="ObjectShortName">MUL[5:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/tb_1/a/HLT" type="array">
+      <obj_property name="ElementShortName">HLT[5:0]</obj_property>
+      <obj_property name="ObjectShortName">HLT[5:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/tb_1/a/LW" type="array">
+      <obj_property name="ElementShortName">LW[5:0]</obj_property>
+      <obj_property name="ObjectShortName">LW[5:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/tb_1/a/SW" type="array">
+      <obj_property name="ElementShortName">SW[5:0]</obj_property>
+      <obj_property name="ObjectShortName">SW[5:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/tb_1/a/ADDI" type="array">
+      <obj_property name="ElementShortName">ADDI[5:0]</obj_property>
+      <obj_property name="ObjectShortName">ADDI[5:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/tb_1/a/SUBI" type="array">
+      <obj_property name="ElementShortName">SUBI[5:0]</obj_property>
+      <obj_property name="ObjectShortName">SUBI[5:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/tb_1/a/SLTI" type="array">
+      <obj_property name="ElementShortName">SLTI[5:0]</obj_property>
+      <obj_property name="ObjectShortName">SLTI[5:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/tb_1/a/BNEQZ" type="array">
+      <obj_property name="ElementShortName">BNEQZ[5:0]</obj_property>
+      <obj_property name="ObjectShortName">BNEQZ[5:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/tb_1/a/BEQZ" type="array">
+      <obj_property name="ElementShortName">BEQZ[5:0]</obj_property>
+      <obj_property name="ObjectShortName">BEQZ[5:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/tb_1/a/RR_ALU" type="array">
+      <obj_property name="ElementShortName">RR_ALU[2:0]</obj_property>
+      <obj_property name="ObjectShortName">RR_ALU[2:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/tb_1/a/RM_ALU" type="array">
+      <obj_property name="ElementShortName">RM_ALU[2:0]</obj_property>
+      <obj_property name="ObjectShortName">RM_ALU[2:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/tb_1/a/LOAD" type="array">
+      <obj_property name="ElementShortName">LOAD[2:0]</obj_property>
+      <obj_property name="ObjectShortName">LOAD[2:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/tb_1/a/STORE" type="array">
+      <obj_property name="ElementShortName">STORE[2:0]</obj_property>
+      <obj_property name="ObjectShortName">STORE[2:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/tb_1/a/BRANCH" type="array">
+      <obj_property name="ElementShortName">BRANCH[2:0]</obj_property>
+      <obj_property name="ObjectShortName">BRANCH[2:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/tb_1/a/HALT" type="array">
+      <obj_property name="ElementShortName">HALT[2:0]</obj_property>
+      <obj_property name="ObjectShortName">HALT[2:0]</obj_property>
+   </wvobject>
+</wave_config>
