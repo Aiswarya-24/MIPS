@@ -1,2 +1,4 @@
 # MIPS
-A 32-bit pipelined MIPS processor, without Interlocked Pipeline Stages (MIPS) with  pipelined architecture for enhanced performance
+A 32-bit pipelined MIPS (Microprocessor without Interlocked Pipeline Stages) implementation has been developed using Verilog HDL, focusing on a key feature of pipelined architecture to enhance performance. This implementation supports a simplified version of the MIPS instruction set architecture, enabling it to handle basic arithmetic and logical operations, as well as memory loads and stores, along with branch instructions. 
+
+The application scope of this MIPS processor design is geared towards general-purpose computing operations within System-on-Chip (SoC) designs. By utilizing the Xilinx Vivado tool, the development process was streamlined, ensuring efficient design, simulation, and synthesis of this 32-bit MIPS processor with a pipelined structure. This implementation serves as a foundational component for SoC designs, providing a flexible and efficient solution for various computing tasks within embedded systems and similar applications.
